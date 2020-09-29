@@ -1,0 +1,33 @@
+# Directories
+ncmpcpp_directory = ~/.ncmpcpp/
+lyrics_directory = ~/.lyrics
+mpd_music_dir = ~/Music
+
+#### Behavior
+# execute_on_song_change = "~/.config/ncmpcpp/song-notification.sh"
+# message_delay_time = 1
+# allow_for_physical_item_deletion = "no"
+
+#### Appearance
+colors_enabled = "yes"
+
+#### Visualizer
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_in_stereo = "no"
+visualizer_type = "wave"
+visualizer_output_name = "my_fifo"
+# visualizer_look = "│┃"
+visualizer_look = "◆▋"
+visualizer_color = "default"
+
+#### Window
+song_window_title_format = "{%t - }{%b by }{%a}"
+statusbar_visibility = "yes"
+
+#### Progress Bar
+# progressbar_look = "━━ "
+progressbar_look = "─╼"
+
+#### D'you have dunst?
+execute_on_song_change = kunst --size 60x60 --silent
+

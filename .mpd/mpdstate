@@ -1,0 +1,28 @@
+sw_volume: 100
+audio_device_state:1:sndio output
+state: play
+current: 1
+time: 4.029000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Envidia Kotxina/Asi en la tierra como en el zielo/01 Se VeNden GueRRaS.mp3
+1:Envidia Kotxina/Asi en la tierra como en el zielo/02 HiStoRiaS eN bLanKo y NegRo.mp3
+2:Envidia Kotxina/Asi en la tierra como en el zielo/03 deSkiZiaO.mp3
+3:Envidia Kotxina/Asi en la tierra como en el zielo/04 uN MadeRo MiL LaPizeRos.mp3
+4:Envidia Kotxina/Asi en la tierra como en el zielo/05 PoR Ke.mp3
+5:Envidia Kotxina/Asi en la tierra como en el zielo/06 Ke NunKa eNkUeNtRen La PaZ.mp3
+6:Envidia Kotxina/Asi en la tierra como en el zielo/07 Me Meo eN eL MunDo.mp3
+7:Envidia Kotxina/Asi en la tierra como en el zielo/08 KaRta a uN PreSideNte elige tu.mp3
+8:Envidia Kotxina/Asi en la tierra como en el zielo/09 09 El Kuento del afilador.mp3
+9:Envidia Kotxina/Asi en la tierra como en el zielo/10 Mi kOmPaneRa La LoKurA.mp3
+10:Envidia Kotxina/Asi en la tierra como en el zielo/11 eL aPoStOl PeRdiDo.mp3
+11:Envidia Kotxina/Asi en la tierra como en el zielo/12 MiSeria MaLdiTa.mp3
+12:Envidia Kotxina/Asi en la tierra como en el zielo/13 JoDidO kUareNtOn.mp3
+13:Envidia Kotxina/Asi en la tierra como en el zielo/14 aGua HiRvieNdO keMa eL beBe ando perdio en el jardin de los infantes.mp3
+playlist_end

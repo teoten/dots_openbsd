@@ -1,0 +1,38 @@
+*VT100*Translations: #override \
+    Ctrl Shift <Key>V: insert-selection(CLIPBOARD) \n\
+    Ctrl Shift <Key>C: copy-selection(CLIPBOARD)
+Urxvt*utf8: 2
+Urxvt*BellIsUrgent: true
+*Transparent: true
+*shading: 20
+Urxvt*Geometry: 150x32
+Urxvt*SaveLines: 4096
+*scrollBar: false
+*faceName: Ubuntu Mono
+*faceSize: 9
+*internalBorder: 10
+*color0: #000d18
+*color8: #000d18
+*color1: #e89393
+*color9: #e89393
+*color2: #9ece9e
+*color10: #9ece9e
+*color3: #f0dfaf
+*color11: #f0dfaf
+*color4: #8cd0d3
+*color12: #8cd0d3
+*color5: #c0bed1
+*color13: #c0bed1
+*color6: #dfaf8f
+*color14: #dfaf8f
+*color7: #efefef
+*color15: #efefef
+*foreground: #dcdccc
+*background: #2c363b
+*cursorColor: #ff0041
+*colorBFMode: true
+*colorBD: #ffcfaf
+*colorITMode: true
+*colorIT: #ccdc90
+*colorULMode: true
+*colorUL: #f0d4aa
