@@ -14,4 +14,4 @@
 	* transset-df-6p3 (opacity property of windows)
 	* xlock (it does the same as i3lock)
 	
-![screenie](https://bitbucket.org/joe74/dots_openbsd/raw/d56a417b2b73e39c6831ee8c7df34824a3075011/2020-09-28-150127_1440x900_scrot.png)
+![screenie](https://github.com/teoten/dots_openbsd/blob/master/2020-09-28-150127_1440x900_scrot.png)
